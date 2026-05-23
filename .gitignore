@@ -1,0 +1,11 @@
+chorona_db/
+
+__pycache__/
+
+venv/
+
+models/
+
+.env
+
+data/
